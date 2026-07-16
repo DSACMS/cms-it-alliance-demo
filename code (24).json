@@ -1,0 +1,46 @@
+{
+  "name": "cms-it-alliance-demo",
+  "description": "Demo repo for CMS IT Alliance Presentation about SHARE IT Act",
+  "status": "Ideation",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "CC0-1.0",
+        "URL": "https://github.com/DSACMS/cms-it-alliance-demo/blob/main/LICENSE"
+      }
+    ],
+    "usageType": [
+      "openSource"
+    ]
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/DSACMS/cms-it-alliance-demo",
+  "repositoryVisibility": "public",
+  "vcs": "git",
+  "laborHours": 0,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "languages": [
+    "Shell"
+  ],
+  "maintenance": "internal",
+  "contractNumber": [
+    "0"
+  ],
+  "SBOM": "https://github.com/DSACMS/cms-it-alliance-demo/network/dependencies",
+  "date": {
+    "created": "2025-03-17T19:33:41Z",
+    "lastModified": "2026-07-16T16:21:28Z",
+    "metadataLastUpdated": "2026-07-16T17:22:13.220Z"
+  },
+  "tags": [
+    "test"
+  ],
+  "contact": {
+    "email": "sachinpanayil01@gmail.com",
+    "name": "Sachin Panayil"
+  },
+  "feedbackMechanism": "https://github.com/DSACMS/cms-it-alliance-demo/issues",
+  "AIUseCaseID": "0"
+}
